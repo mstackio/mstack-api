@@ -1,0 +1,14 @@
+{
+    "name": "mstack-api",
+    "version": "1.0.0",
+    "description": "A library to interact with Mstack",
+    "main": "lib/mstack.js",
+    "homepage": "http://mstack.io",
+    "repository": "git://github.com/mstackio/mstack-api",
+    "author": "Kenneth Iversen <kenneth@mstack.io>",
+    "license": "ISC",
+    "dependencies": {
+        "querystring": "^0.2.0",
+        "request": "^2.88.0"
+    }
+}
